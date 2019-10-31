@@ -1,0 +1,9 @@
+D:\vr_code\winform_student_management\winform_student_management\bin\Debug\winform_student_management.exe.config
+D:\vr_code\winform_student_management\winform_student_management\bin\Debug\winform_student_management.exe
+D:\vr_code\winform_student_management\winform_student_management\bin\Debug\winform_student_management.pdb
+D:\vr_code\winform_student_management\winform_student_management\obj\Debug\winform_student_management.csprojResolveAssemblyReference.cache
+D:\vr_code\winform_student_management\winform_student_management\obj\Debug\winform_student_management.Form1.resources
+D:\vr_code\winform_student_management\winform_student_management\obj\Debug\winform_student_management.Properties.Resources.resources
+D:\vr_code\winform_student_management\winform_student_management\obj\Debug\winform_student_management.csproj.GenerateResource.Cache
+D:\vr_code\winform_student_management\winform_student_management\obj\Debug\winform_student_management.exe
+D:\vr_code\winform_student_management\winform_student_management\obj\Debug\winform_student_management.pdb

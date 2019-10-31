@@ -1,0 +1,9 @@
+D:\vr_code\myRtf\myRtf\bin\Debug\myRtf.exe.config
+D:\vr_code\myRtf\myRtf\bin\Debug\myRtf.exe
+D:\vr_code\myRtf\myRtf\bin\Debug\myRtf.pdb
+D:\vr_code\myRtf\myRtf\obj\Debug\myRtf.csprojResolveAssemblyReference.cache
+D:\vr_code\myRtf\myRtf\obj\Debug\myRtf.Form1.resources
+D:\vr_code\myRtf\myRtf\obj\Debug\myRtf.Properties.Resources.resources
+D:\vr_code\myRtf\myRtf\obj\Debug\myRtf.csproj.GenerateResource.Cache
+D:\vr_code\myRtf\myRtf\obj\Debug\myRtf.exe
+D:\vr_code\myRtf\myRtf\obj\Debug\myRtf.pdb

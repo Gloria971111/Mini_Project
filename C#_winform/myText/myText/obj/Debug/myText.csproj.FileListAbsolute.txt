@@ -1,0 +1,8 @@
+D:\vr_code\myText\myText\bin\Debug\myText.exe.config
+D:\vr_code\myText\myText\bin\Debug\myText.exe
+D:\vr_code\myText\myText\bin\Debug\myText.pdb
+D:\vr_code\myText\myText\obj\Debug\myText.form1.resources
+D:\vr_code\myText\myText\obj\Debug\myText.Properties.Resources.resources
+D:\vr_code\myText\myText\obj\Debug\myText.csproj.GenerateResource.Cache
+D:\vr_code\myText\myText\obj\Debug\myText.exe
+D:\vr_code\myText\myText\obj\Debug\myText.pdb

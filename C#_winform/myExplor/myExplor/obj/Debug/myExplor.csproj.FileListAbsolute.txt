@@ -1,0 +1,9 @@
+D:\vr_code\myExplor\myExplor\bin\Debug\myExplor.exe.config
+D:\vr_code\myExplor\myExplor\bin\Debug\myExplor.exe
+D:\vr_code\myExplor\myExplor\bin\Debug\myExplor.pdb
+D:\vr_code\myExplor\myExplor\obj\Debug\myExplor.csprojResolveAssemblyReference.cache
+D:\vr_code\myExplor\myExplor\obj\Debug\myExplor.Form1.resources
+D:\vr_code\myExplor\myExplor\obj\Debug\myExplor.Properties.Resources.resources
+D:\vr_code\myExplor\myExplor\obj\Debug\myExplor.csproj.GenerateResource.Cache
+D:\vr_code\myExplor\myExplor\obj\Debug\myExplor.exe
+D:\vr_code\myExplor\myExplor\obj\Debug\myExplor.pdb
